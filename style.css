@@ -1,0 +1,20 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #A19BD9;
+}
+
+h1{
+  font-size: 48px;
+  color: #CC302E;
+}
+
+h5{
+  font-size: 24px;
+  color: #FFFFFF;
+}
+
+p{
+  font-size: 18px;
+  color: #FFFFFF;
+}
